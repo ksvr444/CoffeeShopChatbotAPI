@@ -1,0 +1,20 @@
+# LLMOwnLaptop
+pandas==2.2.3
+python-dotenv==1.0.1
+transformers
+torch
+huggingface_hub
+protobuf
+tiktoken
+sentencepiece
+
+# to load the open ai base url hosted in runpod
+openai==1.55.3
+scikit-learn
+
+# recommendation enginer
+mlxtend==0.23.3
+
+firebase-admin==6.0.1
+google-cloud-storage==2.18.2
+pinecone==5.3.1
